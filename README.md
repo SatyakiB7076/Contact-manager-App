@@ -5,21 +5,13 @@ This **React.js** Contact Manager application allows users to manage their conta
 
 **Features:**
 
-**Create Contact:** 
+**Create Contact:** Users can add new contacts by providing necessary details such as name, email, phone number, etc.
 
-Users can add new contacts by providing necessary details such as name, email, phone number, etc.
+**Read Contact:** View a list of existing contacts with their details, including name, email, and phone number.
 
-**Read Contact:**
+**Update Contact:** Edit contact information like name, email, or phone number for existing contacts.
 
-View a list of existing contacts with their details, including name, email, and phone number.
-
-**Update Contact:**
-
-Edit contact information like name, email, or phone number for existing contacts.
-
-**Delete Contact:**
-
-Remove unwanted contacts from the list.
+**Delete Contact:** Remove unwanted contacts from the list.
 
 **Technologies Used**
 
