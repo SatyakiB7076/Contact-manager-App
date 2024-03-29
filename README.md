@@ -1,4 +1,5 @@
-**Contact Manager App with CRUD Operations React.js **
+
+**Contact Manager App with CRUD Operations React.js**
 
 This **React.js** Contact Manager application allows users to manage their contacts effectively. It includes **CRUD** _(Create, Read, Update, Delete)_ operations for seamless contact management.
 
