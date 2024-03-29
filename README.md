@@ -15,8 +15,8 @@ This **React.js** Contact Manager application allows users to manage their conta
 
 **Technologies Used**
 
-**React.js**: Frontend framework for building the user interface.**
-JavaScript**: Programming language used for frontend logic and interaction.
+**React.js**: Frontend framework for building the user interface.
+**JavaScript**: Programming language used for frontend logic and interaction.
 **CSS**: Styling the application to enhance the user experience.
 **CRUD Operations**: Utilizes _CRUD_ functionalities to manage contacts effectively.
 
